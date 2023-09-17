@@ -52,8 +52,7 @@ Jsoup can be used to extract data from HTML pages on the web. It provides a simp
 
 To run Affordify locally, you must have Java and Node.js installed on your computer. Once you have these installed, follow these steps:
 
-1. Clone the repository: git clone **[https://github.com/VishwaParmar/Affordify---ASDC-Project.git]**
-
+1. Clone the repository.
 2. Navigate to the **group24** directory: **cd group24**
 
 There will be two directories:
